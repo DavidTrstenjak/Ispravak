@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\Ispravak_zad1\Ispravak_zad1\bin\Debug\Ispravak_zad1.exe.config
+C:\Users\ucenik\source\repos\Ispravak_zad1\Ispravak_zad1\bin\Debug\Ispravak_zad1.exe
+C:\Users\ucenik\source\repos\Ispravak_zad1\Ispravak_zad1\bin\Debug\Ispravak_zad1.pdb
+C:\Users\ucenik\source\repos\Ispravak_zad1\Ispravak_zad1\obj\Debug\Ispravak_zad1.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\Ispravak_zad1\Ispravak_zad1\obj\Debug\Ispravak_zad1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\Ispravak_zad1\Ispravak_zad1\obj\Debug\Ispravak_zad1.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\Ispravak_zad1\Ispravak_zad1\obj\Debug\Ispravak_zad1.exe
+C:\Users\ucenik\source\repos\Ispravak_zad1\Ispravak_zad1\obj\Debug\Ispravak_zad1.pdb
